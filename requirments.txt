@@ -1,0 +1,5 @@
+selenium
+pydub
+git+https://gitlab.com/obuilds/public/pytube@ob-v1
+AppKit
+Foundation
