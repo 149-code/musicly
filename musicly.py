@@ -67,7 +67,7 @@ SUBCOMMANDS:
                     
                     for arg in args:
                         if arg == "--shuffle":
-                            shuffle = False
+                            shuffle = True
                         if arg.startswith("--volume="):
                             volume = float(arg.replace("--volume=", ""))
 
